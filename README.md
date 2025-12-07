@@ -61,32 +61,6 @@ Scikit-learn
 
 Matplotlib, Seaborn
 
-📁 Project Structure
-├── data/
-│   └── telecom_churn.csv
-├── notebooks/
-│   └── telecom-churn-analysis.ipynb
-├── models/
-│   └── random_forest_model.pkl
-├── README.md
-└── requirements.txt
-
-🚀 How to Run
-
-Clone the repository
-
-git clone https://github.com/yourusername/telecom-churn
-
-
-Install dependencies
-
-pip install -r requirements.txt
-
-
-Run the notebook
-
-jupyter notebook notebooks/telecom-churn-analysis.ipynb
-
 🏁 Conclusion
 
 The project demonstrates how machine learning can help telecom companies reduce churn and improve customer retention by identifying high-risk customers early. The insights from the model can guide targeted offers, loyalty programs, and improved customer support.
